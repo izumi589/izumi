@@ -1,0 +1,26 @@
+.title {
+  color: #02ccba;
+}
+
+.header {
+  height: auto;
+  background-color: inherit;
+  color: #bfad63
+}
+
+.header logo {
+  font-size: 16px;
+}
+
+.header list {
+  font-size: 10px;
+}
+
+li {
+  list-style: none;
+}
+
+.copy-container {
+  width: 1170px;
+  color: #bfad63
+}
